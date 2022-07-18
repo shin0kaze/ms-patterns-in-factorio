@@ -1,8 +1,12 @@
 
 <style>
+body {
+  background-color: #131312;
+  color: #ba9;
+}
 p {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
-  font-size: 16px;
+  font-size: 17px;
 }
 figure {
   margin: 30px 0px;
